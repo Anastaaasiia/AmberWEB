@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: tests.Tests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 3.238 s <<< FAILURE! - in tests.Tests
+exercise1(tests.Tests)  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.NullPointerException
+	at tests.Tests.exercise1(Tests.java:14)
+
+exercise2(tests.Tests)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at tests.Tests.exercise2(Tests.java:26)
+
+exercise3(tests.Tests)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException
+	at tests.Tests.exercise3(Tests.java:36)
+
+exercise4(tests.Tests)  Time elapsed: 0.002 s  <<< FAILURE!
+java.lang.NullPointerException
+	at tests.Tests.exercise4(Tests.java:45)
+
